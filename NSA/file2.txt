@@ -1,5 +1,7 @@
-dhoni
-dravid
-sachin
-anil
-kabil
+apple
+orange
+mangi
+grape
+guava
+peach
+litchi
